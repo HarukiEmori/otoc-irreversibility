@@ -1,0 +1,17 @@
+# Versions installed in /Users/haruki/Develop/venv/pytket-dev as read on 2026-10-21
+# (Python 3.12; the notebook metadata records 3.12.12).
+# Whether these are exactly the versions used for the reimei runs (completed 2026-03-07) is unverified.
+pytket==2.10.1
+pytket-quantinuum==0.54.0
+pytket-qiskit==0.72.0
+qnexus==0.27.0
+qermit==0.8.2
+qiskit==2.2.2
+qiskit-aer==0.17.2
+numpy==2.3.4
+scipy==1.16.2
+sympy==1.14.0
+matplotlib==3.10.3
+seaborn==0.13.2
+jupyterlab==4.4.5
+ipykernel==6.30.0

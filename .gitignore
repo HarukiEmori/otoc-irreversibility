@@ -1,0 +1,16 @@
+# Jupyter / Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environments (rebuild from requirements.txt)
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Credentials must never be committed
+.env
+
+# Note: *.pkl, *.npy and *.txt result files are intentionally NOT ignored (they are the published data).
